@@ -1,10 +1,10 @@
-# Ubuntu-4k-notebook-with-1080p-external-monitor
+# Ubuntu 4k notebook with 1080p external monitor
 A simple terminal command to configure multiple monitors for Ubuntu.
 
 
 #### Why I created a repo for such a simple and specific topic?
 
-Because I spent more than 10 hours in total to get the result I wanted. I have tried many recommended codes on the internet but it did not work. Since I was finally bored, I set my 4k monitor to 1080p rather than bothering me with this situation. I used it for 2-3 weeks as this way. It was blury as hell.
+Because I spent more than 10 hours in total to get the result I wanted. I have tried many recommended codes on the internet but they did not work. Since I was finally bored, I set my 4k monitor to 1080p rather than bothering me with this situation. I used it for 2-3 weeks as this way. It was blury as hell.
 
 Finally, I reached the desired result with the code I shared here. This setting assumes that you have positioned your monitor above the notebook screen.
 
