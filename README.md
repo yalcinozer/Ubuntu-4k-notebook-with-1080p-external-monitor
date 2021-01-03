@@ -16,6 +16,6 @@ xrandr --output HDMI-1-1 --mode 1920x1080 --scale 2x2 --pos 0x0 --rotate normal 
 
 Edit
 
-After formatting my disk and installing a fresh Ubuntu 18.04, the above code did not give the result I wanted. After hours of research, the code below gave runs perfecly for me. For some reason "--scale" does not give very stable results. This command prevents zoom effect and scales external screen by two, so sizes of screen matched perfectly.(1080p and 2160p screens)
+After formatting my disk and installing a fresh Ubuntu 18.04, the code aboce did not give the result I wanted. After hours of research, the code below gave runs perfecly for me. For some reason "--scale" does not give very stable results. This command prevents zoom effect and scales external screen by two, so sizes of screen matched perfectly.(1080p and 2160p screens)
 
 xrandr --output HDMI-1-1 --mode 1920x1080 --transform 2,0,0,0,2,0,0,0,1
